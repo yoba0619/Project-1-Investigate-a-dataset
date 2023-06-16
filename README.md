@@ -38,4 +38,4 @@ My findings for those questions are:
 * 2. Companies of all sizes are using popular newer frameworks with large support and community engagement
 * 3. Developers seem to like their assessment to be provided by their higher ups rather than other metrics
 
-So with all these findings what could we conclude? I'm not sure but a smaller company (<500 Employees) that uses a framework that's built on Node.JS and leverages Typescript might be a good place to work in, maybe Nest.JS or ExpressJS are good choices
+So with all these findings what could we conclude? I'm not sure but a smaller company (<500 Employees) that uses a framework that's built on Node.JS and leverages Typescript might be a good place to work in, maybe Nest.JS or ExpressJS are good choices.
